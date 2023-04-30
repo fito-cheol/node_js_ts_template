@@ -1,4 +1,5 @@
 import express, { Request, Response, NextFunction } from "express";
+import "../env";
 
 const app = express();
 const port = 8000;

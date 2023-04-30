@@ -1,3 +1,4 @@
 - Typescipt
 - nodemon
 - Router
+- DB connection
