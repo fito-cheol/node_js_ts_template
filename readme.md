@@ -2,3 +2,8 @@
 - nodemon
 - Router
 - DB connection
+- Add Logger - winston, morgan
+- cookieParser (Parse Cookie header and populate req.cookies)
+- cors
+- compression (compress response bodies for all request)
+- fileUpload (When you upload a file, the file will be accessible from req.files)
